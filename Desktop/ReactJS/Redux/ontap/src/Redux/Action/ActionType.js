@@ -1,0 +1,12 @@
+export const LIST_ALL='LIST_ALL';
+export const SAVE_FORM='SAVE_FORM';
+export const DIS_PLAY='DIS_PLAY';
+export const OPEN_FORM='OPEN_FORM';
+export const CLOSE_FORM='CLOSE_FORM';
+export const UPDATE_STATUS='UPDATE_STATUS';
+export const DELETE='DELETE';
+export const EDIT_ITEM='EDIT_ITEM';
+export const RESET_FORM='RESET_FORM';
+export const FILTER_TABLE='FILTER_TABLE';
+export const SEARCH_FORM='SEARCH_FORM';
+export const SORT_FORM='SORT_FORM';

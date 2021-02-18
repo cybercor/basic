@@ -1,0 +1,146 @@
+[
+  {
+    "barcode": null,
+    "name": "HeoLuoi",
+    "image": "heoluoi.jfif",
+    "price": 159.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 1
+  },
+  {
+    "barcode": null,
+    "name": "Husky",
+    "image": "husky.jfif",
+    "price": 329.0,
+    "sale_price": 130.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 1
+  },
+  {
+    "barcode": null,
+    "name": "Ciu",
+    "image": "ciu.jfif",
+    "price": 175.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 1
+  },
+  {
+    "barcode": null,
+    "name": "Larva",
+    "image": "larva.jfif",
+    "price": 159.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 1
+  },
+  {
+    "barcode": null,
+    "name": "Husky Cute",
+    "image": "husky_cute.jfif",
+    "price": 800.0,
+    "sale_price": 400.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Husky Baby",
+    "image": "husky_baby.jfif",
+    "price": 269.0,
+    "sale_price": 119.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Heo Lười Hồng",
+    "image": "heoluoi_pink.jfif",
+    "price": 159.0,
+    "sale_price": 119.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Heo Lười Xám",
+    "image": "heoluoi_grey.jfif",
+    "price": 159.0,
+    "sale_price": 119.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Heo Vương Miện",
+    "image": "heo_vuong_mien.jfif",
+    "price": 367.0,
+    "sale_price": 189.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Đầu Heo Tik Tok",
+    "image": "DauHeo_tiktok.jfif",
+    "price": 78.0,
+    "sale_price": 29.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Ciu Béo Phì",
+    "image": "Ciu_beophi.jfif",
+    "price": 129.0,
+    "sale_price": 55.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Ciu Cute",
+    "image": "Ciu_cute.jfif",
+    "price": 280.0,
+    "sale_price": 110.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Larva Yellow",
+    "image": "larva_yellow.jfif",
+    "price": 155.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Larva Red",
+    "image": "larva_red.jfif",
+    "price": 120.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  },
+  {
+    "barcode": null,
+    "name": "Larva Pink",
+    "image": "larva_pink.jfif",
+    "price": 155.0,
+    "created_at": "0",
+    "created_end": "0",
+    "featured": 0
+  }
+]

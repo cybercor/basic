@@ -1,0 +1,69 @@
+<% pages.page.forEach(function(ele) { %>
+<div class="col-sm-6 col-md-4 col-lg-3">
+  <article class="product wow fadeInRight">
+    <div class="product-body">
+      <div class="product-figure">
+        <a href="/ListProducts/Product-Detail">
+          <img
+            src="images/products/<%=ele.image %>"
+            alt="Easy Polo Black Edition 26"
+          />
+        </a>
+      </div>
+      <h5 class="product-title">
+        <a href="#"><%=ele.name %></a>
+      </h5>
+      <!-- <div class="store-url">
+        <a href="product-detail.html"
+          ><i class="fa fa-shopping-bag" aria-hidden="true"></i></a
+        >
+      </div> -->
+      <a
+        onClick="addToCartAjax('26','default','3')"
+        class="button button-lg button-secondary button-zakaria add-to-cart-list"
+        ><i class="fa fa-cart-plus"></i> Add to cart</a
+      >
+      <div
+        class="<%=ele.created_at < ele.created_end ? 'product-price-wrap' : 'ps-shoe__price--hide' %>"
+      >
+        <div class="product-price product-price-old">
+          <%=createComma.format(ele.price+`${numVnd}`)+"VND"%>
+        </div>
+        <div class="product-price">
+          <%=createComma.format(ele.sale_price+`${numVnd}`)+"VND" %>
+        </div>
+      </div>
+      <div
+        class="<%=ele.created_at < ele.created_end ? 'ps-shoe__price--hide' : 'product-price' %>"
+      >
+        <%=createComma.format(ele.price+`${numVnd}`)+"VND"%>
+      </div>
+    </div>
+    <span
+      ><img
+        class="product-badge new"
+        src="https://demo.s-cart.org/templates/s-cart-light/images/home/sale.png"
+        class="new"
+        alt=""
+    /></span>
+    <div class="product-button-wrap">
+      <div class="product-button">
+        <a
+          class="button button-secondary button-zakaria"
+          onClick="addToCartAjax('26','wishlist','3')"
+        >
+          <i class="fa fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-button">
+        <a
+          class="button button-primary button-zakaria"
+          onClick="addToCartAjax('26','compare','3')"
+        >
+          <i class="fa fa-exchange"></i>
+        </a>
+      </div>
+    </div>
+  </article>
+</div>
+<% }) %>
